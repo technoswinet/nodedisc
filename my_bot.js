@@ -8,6 +8,6 @@ client.on('ready', () => {
     client.user.setActivity("terror", {type: "LISTENING"})
 })
 
-bot_secret_token = "NTI0Mzc5NTQ3ODIzNzY3NTUz.DvnQXg.dx06pwg1_3-zz0V3FfnWF3yE-Pw"
+bot_secret_token = ""
 
 client.login(bot_secret_token)
